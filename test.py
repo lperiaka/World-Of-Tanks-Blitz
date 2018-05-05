@@ -1,4 +1,5 @@
-for i in range(1,10):
-    if i==5:
-        continue
-    print(i)
+import csv
+
+lak={'a':'aa', 'b':'bb'}
+for i, letter in enumerate(lak):
+    print(letter, i)

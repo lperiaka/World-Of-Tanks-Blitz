@@ -1,0 +1,20 @@
+Stat to Compare,High or Low better?,Comment
+['weight'],Low,
+['firepower'],High,
+['shot_efficiency'],High,
+['signal_range'],High,
+['shells'][0]['penetration'],High,Shell type 1
+['shells'][0]['damage'],High,Shell type 1
+['armor']['turret']['front'],High,
+['armor']['turret']['sides'],High,
+['armor']['turret']['rear'],High,
+['armor']['hull']['front'],High,
+['armor']['hull']['sides'],High,
+['armor']['hull']['rear'],High,
+['speed_forward'],High,
+['speed_backward'],High,
+['hp'],High,
+['gun']['fire_rate'],High,
+['gun']['reload_time'],Low,
+['gun']['aim_time'],Low,
+['maneuverability'],High,
