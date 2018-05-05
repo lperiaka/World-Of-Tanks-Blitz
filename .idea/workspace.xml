@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f2c5622-a18a-4abc-84b5-48f725f1cd13" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="secondTry.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/secondTry.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-534">
+              <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wotb-schema.json" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/schema/wotb-schema.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3637">
+              <caret line="3105" column="0" lean-forward="false" selection-start-line="3105" selection-start-column="0" selection-end-line="3105" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!block;n#account#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#achievements#0;n#!!block;n#account#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#clanmessages#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#clans#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#achievements#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#crewskills#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#info#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#modules#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#provisions#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#vehicleprofiles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#vehicles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#tanks#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#achievements#0;n#!!block;n#tanks#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#tournaments#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compareTanks.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/compareTanks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="60" column="28" lean-forward="false" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_axes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/matplotlib/axes/_axes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="2104" column="0" lean-forward="false" selection-start-line="2104" selection-start-column="0" selection-end-line="2104" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getVehicleCharacteristics.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getVehicleCharacteristics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding>
+                <element signature="e#122#135#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>engines</find>
+      <find>tank_id</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/secondTry.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/getVehicleCharacteristics.py" />
+        <option value="$PROJECT_DIR$/compareTanks.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="720" />
+    <option name="y" value="-19" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WOT Blitz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WOT Blitz" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lakshu\Dropbox\Python\WOT Blitz" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.compareTanks">
+    <configuration name="compareTanks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WOT Blitz" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/compareTanks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="getVehicleCharacteristics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WOT Blitz" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getVehicleCharacteristics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="secondTry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Lakshu\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WOT Blitz" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secondTry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WOT Blitz" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.secondTry" />
+      <item index="1" class="java.lang.String" itemvalue="Python.compareTanks" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.getVehicleCharacteristics" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.compareTanks" />
+        <item index="1" class="java.lang.String" itemvalue="Python.getVehicleCharacteristics" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.secondTry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f2c5622-a18a-4abc-84b5-48f725f1cd13" name="Default" comment="" />
+      <created>1515389092003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515389092003</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1140625" sideWeight="0.46360153" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4270033" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.1140625" sideWeight="0.5363985" order="3" side_tool="true" content_ui="tabs" x="251" y="327" width="1036" height="524" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/secondTry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/meta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/schema/wotb-schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45528">
+          <caret line="2168" column="28" lean-forward="false" selection-start-line="2168" selection-start-column="28" selection-end-line="2168" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!block;n#account#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#account#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#clanmessages#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#clans#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#crewskills#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#info#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#modules#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#provisions#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#vehicleprofiles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#vehicles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#tanks#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#tanks#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#tournaments#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondTry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/meta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/schema/wotb-schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45528">
+          <caret line="2168" column="28" lean-forward="true" selection-start-line="2168" selection-start-column="28" selection-end-line="2168" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!block;n#account#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#account#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#clanmessages#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#clans#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#crewskills#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#info#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#modules#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#provisions#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#vehicleprofiles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#vehicles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#tanks#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#tanks#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#tournaments#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondTry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/meta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/schema/wotb-schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46053">
+          <caret line="2193" column="17" lean-forward="false" selection-start-line="2193" selection-start-column="5" selection-end-line="2193" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!block;n#account#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#account#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#clanmessages#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#clans#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#crewskills#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#info#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#modules#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#provisions#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#vehicleprofiles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#vehicles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#tanks#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#tanks#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#tournaments#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondTry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/meta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/schema/wotb-schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46053">
+          <caret line="2193" column="17" lean-forward="true" selection-start-line="2193" selection-start-column="5" selection-end-line="2193" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!block;n#account#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#account#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#clanmessages#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#clans#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#crewskills#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#info#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#modules#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#provisions#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#vehicleprofiles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#vehicles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#tanks#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#tanks#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#tournaments#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1686">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming-2018.1.1.dist-info/DESCRIPTION.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-824">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming-2018.1.1.dist-info/metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming-2018.1.1.dist-info/top_level.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/schema/wotb-schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3637">
+          <caret line="3105" column="0" lean-forward="false" selection-start-line="3105" selection-start-column="0" selection-end-line="3105" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#account#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#account#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#clanmessages#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#clans#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#crewskills#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#info#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#modules#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#provisions#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#vehicleprofiles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#vehicles#0;n#!!block;n#encyclopedia#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#tanks#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#achievements#0;n#!!block;n#tanks#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#tournaments#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1281067575/Scripts/_testmultiphase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wargaming/meta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondTry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-534">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstTry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#16#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getVehicleCharacteristics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="e#122#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="2104" column="0" lean-forward="false" selection-start-line="2104" selection-start-column="0" selection-end-line="2104" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compareTanks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" column="28" lean-forward="false" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
